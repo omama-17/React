@@ -8,6 +8,7 @@ import { useState } from "react";
 import WelcomeMessage from "./components/WelcomeMessage";
 
 function App() {
+  console.log("from git");
   const initialtodoItems = [
     {
       name: "learn react",
