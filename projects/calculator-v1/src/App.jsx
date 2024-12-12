@@ -7,7 +7,7 @@ function App() {
   return (
     
     <div className={styles.calculator}>
-      <h1>Calculator</h1>
+      <h1>Use the Calculator</h1>
    <Display/>
     <ButtonsContainer/> 
     </div>
